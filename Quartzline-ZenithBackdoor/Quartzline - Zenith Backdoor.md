@@ -278,3 +278,8 @@ rule QuartzLine_Zenith_Loader
 - Confirm the server→implant decoder matches the request encoding.
 - Analyze `25ea334b…` and `069fd1e7…` (flags, C2, what the summarizer collects, S3 destination).
 - Validate a traffic decoder against real captured bodies.
+
+## 12. Extra Resources
+- https://blackfish-defended.com/research/zenith-kit/
+- https://threatfox.abuse.ch/ioc/1966842/
+- https://rogueauthority.org/quartzline-signed-pdf-viewer-zenith-backdoor
