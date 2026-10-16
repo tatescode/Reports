@@ -4,7 +4,7 @@
 **Date:** 2026-10-16
 **Method:** Static analysis only. The sample was never executed and no C2 infrastructure was contacted. Tooling: Ghidra 12.1.4 (headless), capstone, radare2, custom Python.
 
-> This analysis was done with AI assistance (Claude + REA). Everything marked **confirmed** was checked directly against the binary's bytes or disassembly. Behavior marked **observed** comes from endpoint telemetry in an investigated environment. Third-party claims are called out separately and are only marked as matching where checked them directly.
+> Notice: This analysis was done with AI assistance (Claude + REA). Everything marked **confirmed** was checked directly against the binary's bytes or disassembly. Behavior marked **observed** comes from endpoint telemetry in an investigated environment. Third-party claims are called out separately and are only marked as matching where checked them directly.
 
 ---
 
